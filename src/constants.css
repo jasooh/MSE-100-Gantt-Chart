@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+    .page-container {
+        @apply overflow-hidden w-full h-fit min-h-screen bg-gradient-to-b from-background to-black;
+      }
+    
+      .full-parent-fit {
+        @apply w-full h-fit min-h-screen;
+      }
+    
+      .fit-parent {
+        @apply w-full h-full;
+      }
+    
+      .fit-self {
+        @apply w-fit h-fit;
+      }
+}

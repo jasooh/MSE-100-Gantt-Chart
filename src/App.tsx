@@ -1,25 +1,18 @@
-import React from 'react';
-import logo from './logo.svg';
+// App.tsx
 import './App.css';
+import GanttChart from './components/GanttChart';
 
 function App() {
   return (
-    <div className="App">
+    <article>
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1 className="font-bold text-6xl">MSE 100</h1>
+        <h2 className="text-gray-400">Project Milestone Timeline</h2>
+        <p className="mb-10 text-[0.8em] text-gray-500">Justin Abuyuan, 2024</p>
+        <GanttChart/>
+        <p className="mt-5 italic text-gray-400 text-[0.8em]">Hover over bars to see more details.</p>
       </header>
-    </div>
+    </article>
   );
 }
 
