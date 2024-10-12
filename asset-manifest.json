@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/MSE-100-Gantt-Chart/static/css/main.5ee1cc48.css",
-    "main.js": "/MSE-100-Gantt-Chart/static/js/main.8a45da1c.js",
+    "main.js": "/MSE-100-Gantt-Chart/static/js/main.4b82d3d2.js",
     "static/js/453.6d5295e3.chunk.js": "/MSE-100-Gantt-Chart/static/js/453.6d5295e3.chunk.js",
     "index.html": "/MSE-100-Gantt-Chart/index.html",
     "main.5ee1cc48.css.map": "/MSE-100-Gantt-Chart/static/css/main.5ee1cc48.css.map",
-    "main.8a45da1c.js.map": "/MSE-100-Gantt-Chart/static/js/main.8a45da1c.js.map",
+    "main.4b82d3d2.js.map": "/MSE-100-Gantt-Chart/static/js/main.4b82d3d2.js.map",
     "453.6d5295e3.chunk.js.map": "/MSE-100-Gantt-Chart/static/js/453.6d5295e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5ee1cc48.css",
-    "static/js/main.8a45da1c.js"
+    "static/js/main.4b82d3d2.js"
   ]
 }
